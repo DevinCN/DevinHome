@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [简介](README.md)
 * [第1部分 《软件设计》](part-1.md)
@@ -12,6 +12,11 @@
     * [6.2.机器学习](part-1/chapter-6/6-2.md)
     * [6.3.人工智能](part-1/chapter-6/6-3.md)
 * [第2部分 《科技与未来》](part-2.md)
+  * [chapter 1](part-2/chapter-1.md)
+  * [chapter 2](part-2/chapter-2.md)
+  * [chapter 3](part-2/chapter-3.md)
+  * [chapter 4](part-2/chapter-4.md)
+  * [chapter 5](part-2/chapter-5.md)
 * [第3部分 《文化与传承》](part-3.md)
 * [第4部分 《设计与艺术》](part-4.md)
 * [第5部分 《匠心》](part-5.md)
